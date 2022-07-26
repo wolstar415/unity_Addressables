@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8d71cf5b450766a4bad1f097ea075ae5
+  m_SerializeEntries:
+  - m_GUID: 3f0dda135e7aac146baf66ddeaf8a52c
+    m_Address: Assets/Addressables/GameObject/Green.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Test
+  - m_GUID: bc86cd53beb21dd4f847fe8e2453ce7e
+    m_Address: Assets/Addressables/GameObject/Yellow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Test
+  - m_GUID: e66a11f0e24d36f4ba72880b10f0eb19
+    m_Address: Assets/Addressables/GameObject/Red.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Test
+  - m_GUID: e930d31eecf14fe46ab5c58d43d6720b
+    m_Address: Assets/Addressables/GameObject/Black.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Test
+  - m_GUID: 0434335f9acc52a4c92d27f60183a591
+    m_Address: Assets/Addressables/GameObject/Blue.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Test
+  - m_GUID: c091a22972d835d4c987da41be72850f
+    m_Address: music3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Test
+  - m_GUID: bbf067e2ca662ad4184af6c70bc58afd
+    m_Address: music2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Test
+  - m_GUID: 70927c9bd1cbe7246b683dfc06eeb6f0
+    m_Address: music1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Test
+  - m_GUID: 2c3f983e818a36341bf45d31439ca8a0
+    m_Address: music4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Test
+  - m_GUID: f1f899ed5d29f9b4d9268735283a7bc6
+    m_Address: music5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Test
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f3f990e643d2754489e3abc9c8ebdec4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 68d6dfa15fecea340ae3e4dca28b1def, type: 2}
+    - {fileID: 11400000, guid: 3e859320f3da46841b810ab4038df3e0, type: 2}
