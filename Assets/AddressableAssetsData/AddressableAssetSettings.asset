@@ -39,7 +39,7 @@ MonoBehaviour:
     m_Id: b33318d67b3937749b7dfc5443325b23
   m_ContentStateBuildPath: 
   m_BuildAddressablesWithPlayerBuild: 0
-  m_overridePlayerVersion: wolstar
+  m_overridePlayerVersion: wolstar2
   m_GroupAssets:
   - {fileID: 11400000, guid: 87239776bf2a5604195913a3dc493521, type: 2}
   - {fileID: 11400000, guid: 946297d3c52b32b46af842a0f01b25e2, type: 2}
